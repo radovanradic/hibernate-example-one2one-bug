@@ -1,4 +1,4 @@
-package com.example.hibernate.timestamp;
+package com.example.hibernate.onetoone.bug;
 
 import javax.persistence.CascadeType;
 import javax.persistence.Entity;
